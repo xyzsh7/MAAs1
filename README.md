@@ -1,5 +1,5 @@
 # MAAs1
-There are two projects listed under this folder:
+There are 4 projects listed under this folder:
 
  1. Google eCommerce - Customer Lifetime Value Prediction
  2. Sales Data - Analyzing and forcasting future revenue
